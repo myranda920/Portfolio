@@ -16,8 +16,8 @@
 
         // BACKSTRETCH SLIDESHOW
         $("#home").backstretch([
-          "images/home-bg-slideshow-image1.jpg",
-          "images/home-bg-slideshow-image2.jpg"
+          "images/First_Image.jpg",
+          "images/Second_Image.jpg"
           ], {duration: 2000, fade: 750});
 
 
