@@ -346,6 +346,17 @@ a:hover, a:active, a:focus {
   margin-bottom: 22px;
 }
 
+#service .fab {
+  background: #ffffff;
+  color: #000000;
+  font-size: 32px;
+  width: 85px;
+  height: 85px;
+  line-height: 85px;
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: 22px;
+}
 
 
 /*---------------------------------------
